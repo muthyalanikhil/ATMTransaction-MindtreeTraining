@@ -1,0 +1,8 @@
+c:\users\m1032434\documents\visual studio 2010\Projects\AtmTransaction\AtmTransaction\bin\Debug\AtmTransaction.exe
+c:\users\m1032434\documents\visual studio 2010\Projects\AtmTransaction\AtmTransaction\bin\Debug\AtmTransaction.pdb
+c:\users\m1032434\documents\visual studio 2010\Projects\AtmTransaction\AtmTransaction\obj\x86\Debug\AtmTransaction.exe
+c:\users\m1032434\documents\visual studio 2010\Projects\AtmTransaction\AtmTransaction\obj\x86\Debug\AtmTransaction.pdb
+D:\day4\AtmTransaction\AtmTransaction\obj\x86\Debug\AtmTransaction.exe
+D:\day4\AtmTransaction\AtmTransaction\obj\x86\Debug\AtmTransaction.pdb
+D:\day4\AtmTransaction\AtmTransaction\bin\Debug\AtmTransaction.exe
+D:\day4\AtmTransaction\AtmTransaction\bin\Debug\AtmTransaction.pdb
